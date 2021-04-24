@@ -9,6 +9,4 @@ Clone this repo. Edit text-adventure.py to change villain selection, weapons or 
 # Gameplay
 This game runs from the command line. Navigate to Adventure-Game directory run text-adventure.py with python3. Enjoy!
 
-# License & Copyright
-TBD. The plot for the game is from a Udacity project. The code is my own.
 
